@@ -1,0 +1,27 @@
+.search-all{
+    margin: 12px auto;
+}
+.cards{
+    margin: 12px auto;
+display: flex;
+justify-content: space-between;
+flex-wrap: wrap;
+padding: 0 70px;
+}
+.card-single
+{text-align: center;
+    border: 1px solid black ;
+    margin: 12px auto;
+    width: 21%;
+}
+img{
+    width:100%;
+}
+.seach-inp{
+text-align: center;
+}
+input{
+    margin: 10px auto;
+padding: 4px 6px;
+width: 25%;
+}
